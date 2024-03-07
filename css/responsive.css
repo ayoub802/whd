@@ -1,6 +1,21 @@
 @media screen and (max-width: 1950px) {
     .hero__title{
-        font-size: 2.5em !important;
+        font-size: 4.5em !important;
+    }
+
+    .hero__heading-wrapper{
+      margin-bottom: 1.75em !important;
+    }
+    .btn-text.btn-text-ani{
+      height: 4em;
+    }
+
+    .product__slider-content .product_item_info {
+      transform: translateX(10%) !important;
+    }
+
+    .product__slider-content:last-child .product_item_info {
+      transform: translateX(25%) !important;
     }
 
 }
