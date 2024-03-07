@@ -38,10 +38,14 @@
 
     .slider-item h5{
         font-size: .95em !important;
+        max-width: 90% !important;
+        margin-inline: auto;
     }
 
     .slider-item p{
       font-size: .9em !important;
+      max-width: 90% !important;
+      margin-inline: auto;
     }
 
 }
