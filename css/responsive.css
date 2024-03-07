@@ -27,8 +27,8 @@
     }
 
     .slider-item{
-      height: 18.7em;
-      width: 16.25em;
+      height: 16em;
+      width: 15.25em;
     }
 
     .slider-item img{
@@ -36,7 +36,7 @@
       font-size: 0.95em !important;
     }
 
-    .slider-heading{
+    .slider-item h5{
         font-size: .95em !important;
     }
 
