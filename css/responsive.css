@@ -1,5 +1,8 @@
-@media screen and (max-width: 1550px) {
-    
+@media screen and (max-width: 1750px) {
+    .hero__title{
+        font-size: 4.5em;
+    }
+
 }
 
 @media screen and (max-width: 1440px) {
