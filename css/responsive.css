@@ -32,8 +32,12 @@
     }
 
     .slider-item img{
-      width: 70px;
+      width: 70px !important;
       font-size: 0.95em !important;
+    }
+
+    .slider-heading{
+        font-size: .95em !important;
     }
 
     .slider-item p{
