@@ -18,6 +18,28 @@
       transform: translateX(25%) !important;
     }
 
+    .section-title{
+      font-size: 4em;
+    }
+
+    .about_section .par-bottom-wrapper .txt-par{
+      font-size: .95em;
+    }
+
+    .slider-item{
+      height: 18.7em;
+      width: 16.25em;
+    }
+
+    .slider-item img{
+      width: 70px;
+      font-size: 0.95em !important;
+    }
+
+    .slider-item p{
+      font-size: .9em !important;
+    }
+
 }
 
 @media screen and (max-width: 1440px) {
