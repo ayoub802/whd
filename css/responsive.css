@@ -1,6 +1,6 @@
-@media screen and (max-width: 1750px) {
+@media screen and (max-width: 1950px) {
     .hero__title{
-        font-size: 4.5em;
+        font-size: 0.5em !important;
     }
 
 }
